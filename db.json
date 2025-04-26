@@ -33,12 +33,5 @@
         "location": "Plutostraat 105, 2402 XK Alphen aan den Rijn",
         "inspector": "Jeroen Verlaan",
         "status": "Geannuleerd"
-    },
-    {
-        "id": 6,
-        "date": "2024-09-15",
-        "location": "Koninginneweg 250, 2411XS Bodegraven",
-        "inspector": "Lars van Dongen",
-        "status": "In uitvoering"
     }
 ]
