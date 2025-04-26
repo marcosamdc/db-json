@@ -38,12 +38,5 @@
         "inspector": "Jeroen Verlaan",
         "status": "Geannuleerd",
         "remarks": "Inspectie geannuleerd door klant."
-    },
-    {
-        "id": 6,
-        "date": "2024-09-15",
-        "location": "Koninginneweg 250, 2411XS Bodegraven",
-        "inspector": "Lars van Dongen",
-        "status": "In uitvoering",
     }
 ]
